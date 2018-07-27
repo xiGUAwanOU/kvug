@@ -1,5 +1,5 @@
 # Welcome
-_The next meetup will be held at the end of October, 2018_
+<span style="color:#47b784">**The next meetup will be held at the end of October, 2018**</span>
 
 Welcome to the topics backlog of the Karlsruhe Vue.js User Group.
 
