@@ -1,9 +1,25 @@
 # Welcome
-Welcome to the organization information page of the Karlsruhe Vue.js User Group. Karlsruhe Vue.js User Group is a Meetup group mainly about sharing the expirences using the frontend framework Vue.js. However all the other topics that are related to frontend development (either directly or in-directly) are also welcomed.
+_The next meetup will be held at the end of October, 2018_
 
-In this organization page, you can post, view, and discuss about the topics for the next meetup. If you could provide a place for the next meetup, you could also post it here.
+Welcome to the topics backlog of the Karlsruhe Vue.js User Group.
+
+[Karlsruhe Vue.js User Group](https://www.meetup.com/de-DE/Karlsruhe-Vue-js-User-Group/) is a Meetup group mainly about sharing the experiences using the frontend framework [Vue.js](https://vuejs.org/). Any other topics related to frontend development (either directly or in-directly) are also welcomed.
+
+The meetup will be held every 3 months.
+
+In this repository, you can post, view, and discuss about the topics for the future meetups.
 
 ## Rules
-1. If you could give a talk in the next meetup, please create an issue with `TOPIC` label.
-2. If you want to hear a talk about a specific topic, please create an issue with `QUERY` label.
-3. If you or your company could provide the place for the next meetip, please create an issue with `PLACE` label.
+1. If you have any experiences to share in the future meetups, please create an issue with `TOPIC` label.
+2. If you want to hear something about a specific topic, please create an issue with `QUEST` label.
+3. Post questions, comments and discussions in the issues directly.
+4. When a talk has been made, the corresponding issue will be closed.
+5. You can review all the past topics in the History section below.
+
+## History
+* 2018-07-28
+  * Implementing Waterfall Layout Using Vue.js
+  * Breaking out of the component tree with Portal-Vue
+* 2018-04-27
+  * Best Practices for Managing Global State with Vuex
+  * Unit Tests for Vue.js Components
