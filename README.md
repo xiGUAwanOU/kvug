@@ -18,8 +18,8 @@ In this repository, you can post, view, and discuss about the topics for the fut
 
 ## History
 * 2018-07-28
-  * Implementing Waterfall Layout Using Vue.js
-  * Breaking out of the component tree with Portal-Vue
+  * [Implementing Waterfall Layout Using Vue.js](https://drive.google.com/file/d/1BujAz47ZHlAaoj5WKOnyySmH_2FdTyPM/view)
+  * [Breaking out of the component tree with Portal-Vue](https://slides.com/thorstenlunborg/portals-in-vue)
 * 2018-04-27
-  * Best Practices for Managing Global State with Vuex
-  * Unit Tests for Vue.js Components
+  * [Best Practices for Managing Global State with Vuex](https://slides.com/thorstenlunborg/vuex-best-practices#/)
+  * [Unit Tests for Vue.js Components](https://drive.google.com/file/d/1MELedITXvo5LSUIVJArPS9bCAJlR5BSg/view)
