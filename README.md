@@ -1,5 +1,5 @@
 # Welcome
-<span style="color:#47b784">**The [next meetup](https://www.meetup.com/de-DE/Karlsruhe-Vue-js-User-Group/events/255347472/) will be held on 17th October, 2018**</span>
+<span style="color:#47b784">**The next meetup will be held approximately in Feburary next year.**</span>
 
 Welcome to the topics backlog of the Karlsruhe Vue.js User Group.
 
@@ -17,6 +17,8 @@ In this repository, you can post, view, and discuss about the topics for the fut
 5. You can review all the past topics in the History section below.
 
 ## History
+* 2018-10-17
+  * [Basic Usage of GraphQL](https://docs.google.com/presentation/d/1i3M5pvPa10pCSBif-LQRFxfQSb9AVjjmmMUKlFd9wOY/edit?usp=sharing)
 * 2018-07-28
   * [Implementing Waterfall Layout Using Vue.js](https://drive.google.com/file/d/1BujAz47ZHlAaoj5WKOnyySmH_2FdTyPM/view)
   * [Breaking out of the component tree with Portal-Vue](https://slides.com/thorstenlunborg/portals-in-vue)
