@@ -14,7 +14,7 @@ In this repository, you can post, view, and discuss about the topics for the fut
 2. If you want to hear something about a specific topic, please create an issue with `QUEST` label.
 3. Post questions, comments and discussions in the issues directly.
 4. When a talk has already been made, the corresponding issue will be closed.
-5. You can review all the past topics in the History section below.
+5. You can review all the past topics with slides in the History section below.
 
 ## History
 * 2018-10-17
