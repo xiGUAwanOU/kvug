@@ -1,5 +1,5 @@
 # Welcome
-<span style="color:#47b784">**The next meetup will be held approximately in Feburary next year.**</span>
+<span style="color:#47b784">**The [4th Meetup](https://www.meetup.com/de-DE/Karlsruhe-Vue-js-User-Group/events/259653273/) will be held on approx. 14th May.**</span>
 
 Welcome to the topics backlog of the Karlsruhe Vue.js User Group.
 
