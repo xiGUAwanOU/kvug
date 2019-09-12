@@ -1,5 +1,4 @@
 # Welcome
-<span style="color:#47b784">**The [4th Meetup](https://www.meetup.com/de-DE/Karlsruhe-Vue-js-User-Group/events/259653273/) will be held on approx. 14th May.**</span>
 
 Welcome to the topics backlog of the Karlsruhe Vue.js User Group.
 
@@ -17,6 +16,10 @@ In this repository, you can post, view, and discuss about the topics for the fut
 5. You can review all the past topics with slides in the History section below.
 
 ## History
+* 2019-09-10
+  * Things That You Might Not Know About Vue.js
+* 2019-05-14
+  * How to effectively build user-friendly internal tools
 * 2018-10-17
   * [Basic Usage of GraphQL](https://docs.google.com/presentation/d/1i3M5pvPa10pCSBif-LQRFxfQSb9AVjjmmMUKlFd9wOY/edit?usp=sharing)
 * 2018-07-28
