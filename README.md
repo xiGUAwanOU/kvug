@@ -17,9 +17,9 @@ In this repository, you can post, view, and discuss about the topics for the fut
 
 ## History
 * 2019-09-10
-  * Things That You Might Not Know About Vue.js
+  * [Things That You Might Not Know About Vue.js](https://docs.google.com/presentation/d/1P5JIRizkEAcruchJ0PkWn91vmreL6ZVgx2lWGSq6gn8/view)
 * 2019-05-14
-  * How to effectively build user-friendly internal tools
+  * [How to effectively build user-friendly internal tools](https://docs.google.com/presentation/d/1LLYdhmZ32k9KhxfQtUvkaJi-u2fl3JY7fCdh_fcCork/view)
 * 2018-10-17
   * [Basic Usage of GraphQL](https://docs.google.com/presentation/d/1i3M5pvPa10pCSBif-LQRFxfQSb9AVjjmmMUKlFd9wOY/edit?usp=sharing)
 * 2018-07-28
